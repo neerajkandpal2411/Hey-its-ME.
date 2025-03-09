@@ -1,8 +1,9 @@
-# 💫 About Me:
-Intern at NullClass | MERN Stack developer, MongoDB, ExpressJS, ReactJS, NodeJS | Aspiring software engineer seeking an internship.<br>
-I am skillful in C, C++, Java, Concepts of Machine Learning and Data Structures and Algorithms with hands on experience on web development tools.<br>
-I have worked on Frontend as well as Backend technologies for almost a year and had done some projects too.<br>
-Aspiring for a challenging career in Software Development as to use my learned skills and experience for best skills.
+# Hello World!, I'm Neeraj, an aspiring Software engineer 👋🏼:
+🛜 Intern at NullClass | MERN Stack developer, MongoDB, ExpressJS, ReactJS, NodeJS |<br>
+👨🏼‍🎓 3rd year B. Tech (CSE) student at Graphic Era University.<br>
+🏋🏻 I am skillful in C, C++, Java, Concepts of Machine Learning and Data Structures and Algorithms with hands on experience on web development tools.<br>
+👨🏼‍💻 I have worked on Frontend as well as Backend technologies for almost a year and had done some projects too.<br>
+✨ Aspiring for a challenging career in Software Development as to use my learned skills and experience for best skills.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/neerajkandpal_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/neeraj-kandpal/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neerajkandpal265@gmail.com) 
