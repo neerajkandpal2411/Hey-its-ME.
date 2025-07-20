@@ -1,6 +1,6 @@
 # Hello World!, I'm Neeraj, an aspiring Software engineer 👋🏼:
-🛜 Intern at NullClass | MERN Stack developer, MongoDB, ExpressJS, ReactJS, NodeJS |<br>
-👨🏼‍🎓 3rd year B. Tech (CSE) student at Graphic Era University.<br>
+🛜MERN Stack developer, MongoDB, ExpressJS, ReactJS, NodeJS |<br>
+👨🏼‍🎓 Final year B. Tech (CSE) student at Graphic Era University.<br>
 🏋🏻 I am skillful in C, C++, Java, Concepts of Machine Learning and Data Structures and Algorithms with hands on experience on web development tools.<br>
 👨🏼‍💻 I have worked on Frontend as well as Backend technologies for almost a year and had done some projects too.<br>
 ✨ Aspiring for a challenging career in Software Development as to use my learned skills and experience for best skills.
